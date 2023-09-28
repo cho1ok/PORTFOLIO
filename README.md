@@ -17,4 +17,8 @@
 &nbsp;
 3. <a href="https://github.com/cho1ok/project3_team4_wepet">final team project - WEPET</a>
 
+&nbsp;
+<a href="https://github.com/cho1ok/PORTFOLIO/blob/master/포트폴리오-안현정.pdf">🔮 PORTFOLIO PDF 🔮</a>
+<br><br>
+
 
