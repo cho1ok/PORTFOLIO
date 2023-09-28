@@ -4,6 +4,6 @@ Hi!
 
 1. # project1_escape_game
 2. # project2_java_swing
-3. <a href="">3rd</a>
+3. <a href="https://github.com/cho1ok/project3_team4_wepet">3rd</a>
 
 
