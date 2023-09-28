@@ -15,7 +15,7 @@
 &nbsp;
 2. <a href="https://github.com/cho1ok/project2_java_swing">2nd project - 공연예매사이트</a>
 &nbsp;
-3. <a href="https://github.com/cho1ok/project3_team4_wepet">final team project - WEPET</a>
+3. <a href="https://github.com/cho1ok/project3_team4_wepet">Final team project - WEPET</a>
 &nbsp;
 4. And many more projects in progress at this time. See you soon!
 
