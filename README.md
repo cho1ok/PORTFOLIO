@@ -11,11 +11,11 @@
 &nbsp;
 🔮 source code 🔮
 &nbsp;
-1. <a href="https://github.com/cho1ok/project1_escape_game">1st project - 방탈출게임</a>
+1. <a href="https://github.com/cho1ok/project1_escape_game">1st Project - 방탈출게임</a>
 &nbsp;
-2. <a href="https://github.com/cho1ok/project2_java_swing">2nd project - 공연예매사이트</a>
+2. <a href="https://github.com/cho1ok/project2_java_swing">2nd Project - 공연예매사이트</a>
 &nbsp;
-3. <a href="https://github.com/cho1ok/project3_team4_wepet">Final team project - WEPET</a>
+3. <a href="https://github.com/cho1ok/project3_team4_wepet">Final Team Project - WEPET</a>
 &nbsp;
 4. And many more projects in progress at this time. See you soon!
 
